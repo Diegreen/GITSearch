@@ -16,6 +16,7 @@ export async function searchUsers(usuarios) {
       console.error(error);
       window.location = './src/pages/error.html';
     }
+    
   }
  
  
