@@ -9,7 +9,6 @@ export async function gitUsers () {
       const value = usuarios.value
 
       searchUsers(value)
-      console.log(searchUsers(value))
     })
 } 
 
